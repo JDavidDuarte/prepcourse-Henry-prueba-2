@@ -1,2 +1,2 @@
-# prepcourse-Henry-prueba-2
-esta es mi segunda prueba 
+esta proyecto es mi segundo intento de como crear desde mi ordenador
+
